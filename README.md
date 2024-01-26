@@ -1,2 +1,2 @@
 # makia.dev
-basic landing page, looks pretty cool! 
+basic landing page for https://makia.dev
